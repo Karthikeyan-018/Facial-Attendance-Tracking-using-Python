@@ -15,7 +15,7 @@ This project is a Flask-based web application designed for managing attendance u
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/attendance-management-system.git
+    git clone https://github.com/attendance-management-system-using-facial recognition.git
     ```
 
 2. Install dependencies:
